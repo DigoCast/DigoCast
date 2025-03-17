@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Diego Castilho</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=4CD445&width=435&height=31&lines=Hello!%F0%9F%91%8B+I'm+Diego+Castilho.)](https://git.io/typing-svg)
 <h3>An Full-Stack programming student</h3>
 
 - 👨‍💻 I’m currently studing **Systems Analysis and Development at FATEC São José dos Campos - Prof. Jessen Vidal.**
