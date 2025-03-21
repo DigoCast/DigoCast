@@ -12,6 +12,6 @@
 
 <div style = "display: inline_block">
     <div align="left">
-    <img src="https://skillicons.dev/icons?i=java,py,html,css,js,ts,bootstrap,flask,vscode,idea,mysql,git,github,figma" />
+    <img src="https://skillicons.dev/icons?i=java,py,html,css,js,ts,react,bootstrap,flask,vscode,idea,mysql,git,github,figma" />
 </p>
 </div>
